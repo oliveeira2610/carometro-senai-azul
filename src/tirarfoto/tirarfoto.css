@@ -1,0 +1,35 @@
+.navbarbutton{
+  text-decoration: none;
+  display: inline-block ;
+  cursor: pointer;
+  text-decoration: none;
+  margin-right: 20px;
+  color: aliceblue;
+}
+
+.geral-tirarfoto{
+
+  height: 100%;
+  display: flex;
+  justify-content:center;
+  padding: 80px;
+}
+
+
+.imagem-camera {
+  width: 302px;
+  height: 308px;
+
+  display: flex;
+  
+}
+
+.imagem-foto{
+  display: flex;
+  width: 402px;
+  height: 408px;
+  margin-top: -40px;
+
+
+
+}
